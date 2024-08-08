@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c1ad36ef.css",
-    "main.js": "./static/js/main.1b734010.js",
+    "main.css": "./static/css/main.30d337b6.css",
+    "main.js": "./static/js/main.1a288326.js",
     "static/media/bg-tablet-grey.svg": "./static/media/bg-tablet-grey.1e7e67d4bd25bcf43b1d.svg",
     "static/media/bg-phone-gold.svg": "./static/media/bg-phone-gold.b75d8992feb4696c018c.svg",
     "static/media/bg-phones-red.svg": "./static/media/bg-phones-red.525ad8d40b92efc7c518.svg",
@@ -12,6 +12,7 @@
     "static/media/shopping_bag.svg": "./static/media/shopping_bag.9d5d0d409501d818f0d1.svg",
     "static/media/heart.svg": "./static/media/heart.a95dd00fc9518e89bb3c.svg",
     "static/media/heart-red.svg": "./static/media/heart-red.d554a185325e4fb06092.svg",
+    "static/media/close.svg": "./static/media/close.3ea864f59fecb8596c4b.svg",
     "static/media/close-light.svg": "./static/media/close-light.6e7f15f7413e962f7549.svg",
     "static/media/plus.svg": "./static/media/plus.a544912e75568921a626.svg",
     "static/media/arrow-right-fat.svg": "./static/media/arrow-right-fat.a8e610bffe367dcab128.svg",
@@ -24,11 +25,11 @@
     "index.html": "./index.html",
     "static/media/minus.svg": "./static/media/minus.4b7c4fa33c66c0b35185.svg",
     "static/media/minus-fat.svg": "./static/media/minus-fat.cecb4be39afa7b933ec1.svg",
-    "main.c1ad36ef.css.map": "./static/css/main.c1ad36ef.css.map",
-    "main.1b734010.js.map": "./static/js/main.1b734010.js.map"
+    "main.30d337b6.css.map": "./static/css/main.30d337b6.css.map",
+    "main.1a288326.js.map": "./static/js/main.1a288326.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1ad36ef.css",
-    "static/js/main.1b734010.js"
+    "static/css/main.30d337b6.css",
+    "static/js/main.1a288326.js"
   ]
 }
